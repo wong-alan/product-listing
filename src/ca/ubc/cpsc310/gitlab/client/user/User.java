@@ -19,7 +19,7 @@ public class User implements IUser {
 	
 	public User()
 	{
-		
+		//this is the best comment ever
 	}
 	
 	@Override

@@ -20,6 +20,7 @@ public class User implements IUser {
 	public User()
 	{
 		// Harwin is the best comment ever!
+		// Harwin is not the best comment ever!
 	}
 	
 	@Override
